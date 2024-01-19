@@ -1,4 +1,4 @@
-module github.com/kenshaw/git-buildnumber
+module github.com/michaelahli/git-buildnumber
 
 go 1.18
 

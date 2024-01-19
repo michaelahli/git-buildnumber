@@ -26,7 +26,7 @@ meant as a replacement for standard short/long Git commit hashes.
 Install in the usual [Go][go-project] way:
 
 ```sh
-$ go get -u github.com/brankas/git-buildnumber
+$ go install github.com/michaelahli/git-buildnumber@latest
 ```
 
 ## Using
